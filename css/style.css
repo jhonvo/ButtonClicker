@@ -104,10 +104,12 @@ h1{
     
 }
 
+
 .boxleft{
     text-align: center;
 }
 
-.boxright{
-    width: 100px
+
+.definition{
+    width: 70%;
 }
